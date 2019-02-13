@@ -31,7 +31,7 @@ gravitee_management_mongodb_port=MONGODBPORT \
 gravitee_policy_apikey_header="X-Api-Key" \
 gravitee_policy_apikey_param="api-key" \
 gravitee_handlers_request_transaction_header="X-Transaction-Id" \
-PORT=8082
+PORT=8083
 ```
 
 ## Deploy
